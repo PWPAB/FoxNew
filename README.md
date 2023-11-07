@@ -1,4 +1,4 @@
-# saucedemo
+# SauceDemo
 Automation Test Scripts for Saucedemo
 
 Application Under Test: Sauce Demo URL: https://www.saucedemo.com/
